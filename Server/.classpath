@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/fontbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/pdfbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/pdfbox-app-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/pdfbox-tools-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/preflight-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/preflight-app-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Ema ^_^/Assignment2/xmpbox-2.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
